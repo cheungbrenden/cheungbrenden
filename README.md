@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a UCLA undergrad student studying Mathematics of Computation
+### I just graduated from UCLA with a Mathematics of Computation major. Currently looking for SWE positions.
 <!--
 **cheungbrenden/cheungbrenden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
