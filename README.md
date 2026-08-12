@@ -13,7 +13,6 @@ Forward-deployed engineer. I build agent tooling and ship it next to the people 
 - Launched Computer Use Desktops, the self-serve developer platform for Windows AI agents — signup funnel through first-agent CLI quickstart.
 - Maintained [getnenai/dexbox](https://github.com/getnenai/dexbox), an open-source Go toolkit giving computer-use agents screen, input, and file primitives.
 - Embedded with vet-clinic and dental-automation customers: trained one team to ship 13 workflows in their first week.
-- 257 PRs over 7 months.
 
 🎓 M.S. Computer Science, UIUC (Dec 2026) · B.S. Mathematics of Computation, UCLA
 
